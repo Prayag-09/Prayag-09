@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Prayag-09
+- 👋 Hi, I’m Prayag
 - 👀 I’m interested in web development , open source contribution.
 - 🌱 I’m currently learning Data structure and Alogorithms, Web developing.
 - 💞️ I’m looking to collaborate on open source contribution
