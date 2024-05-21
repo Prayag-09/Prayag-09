@@ -1,34 +1,40 @@
 # Hi there, I'm Prayag! 👋
 
-<div id="header" align="center">
+<div align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/prayagtushar/">
+      <img src="https://img.shields.io/badge/-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://twitter.com/prayagtushar">
+      <img src="https://img.shields.io/badge/-black?style=for-the-badge&logo=x&logoColor=white" alt="X Badge"/>
+    </a>
+    <a href="https://prayagtushar.hashnode.dev/">
+      <img src="https://img.shields.io/badge/Hashnode-3030ff?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode Badge"/>
+    </a>
+  </div>
+  
+  <a href="https://github.com/Prayag-09">
+    <img src="https://img.shields.io/badge/Profile%20Visitors-172B4D?style=for-the-badge&logo=Opsgenie&logoColor=white" alt="Profile Visitors"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Prayag-09&style=flat-square&color=blue" alt="Profile Views"/>
+  
+  <h1>
+    Hello there
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> !!
+  </h1>
 </div>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prayagtushar/)
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/prayagtushar)
-[![Hashnode.to](https://img.shields.io/badge/Hashnode-3030ff)](https://prayagtushar.hashnode.dev/)
-
 
 I'm a passionate web developer. I love exploring new technologies and contributing to the community.
 
 
 
-## 👀 Interests
-
-- Web Development
-- Open Source Contribution
-- Data Structures and Algorithms
-- Learning new technologies
-
-## 🌱 Currently Learning
-
-- Advanced Data Structures and Algorithms
-- Full-stack Web Development
-
-## 💞️ Looking to Collaborate On
-
-- Open source projects
-- Innovative web applications
+## 💞️ About me
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDBjdDhqcmxzMDcxZXphd2kyc3FhdXI4MXBtZnB4c3VxOXp5cTNubyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="400" height="400"/>
+</div>
+- A full stack developer from India
 
 ## 📫 Contact Me
 
