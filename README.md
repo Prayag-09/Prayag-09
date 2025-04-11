@@ -1,10 +1,14 @@
 # 👋 Hey, I'm Tushar Prayag!
 
+I'm a **Full-Stack Developer** and **ECE student** at VIT Vellore, building AI-powered web apps and scalable systems. I love diving into **AI**, **cloud computing**, and open-source projects. Currently crafting intelligent solutions with Next.js, LangChain, and AWS! 🚀
+
 <a href="https://github.com/Prayag-09/Prayag-09">
   <picture>
     <img alt="Prayag's GitHub Profile README" src="./svgs/darkmode.svg">
   </picture>
 </a>
+
+## "Good code is its own best documentation" — Steve McConnell
 
 ## 🛠️ Tech Stack
 
@@ -16,7 +20,7 @@
 
 ### Frameworks & Libraries
 
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
+![React](https://img.shields.io/badge/-React-61DAappsFB?logo=react&logoColor=black&style=flat)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat)
 ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=flat)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat)
@@ -49,9 +53,18 @@
 
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white&style=flat)
 
+## 🏆 Achievements
+
+- Earned **AWS Certified Cloud Practitioner** badge ([View Badge](https://www.credly.com/badges/f5c58f46-d1cf-43a9-bff6-7cad07ee64ce/public_url)).
+
 ## 📈 What I'm Up To
 
 - 🔭 Working on **OpsVerseAI**, an intelligent PDF chat app with Stripe subscriptions.
-- 🌱 Learning **Redis** and advanced **AWS** services.
+- 🌱 Learning **Redis**, advanced **AWS** services, and **LangChain** integrations.
 - 💬 Open to collabs on AI or web dev projects—DM me on [Discord](https://discord.com/users/_prayag_)!
+
+## 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=Prayag-09&show_icons=true&theme=radical&hide_border=true" alt="Prayag's GitHub Stats" width="400" />
+
 

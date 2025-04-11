@@ -71,11 +71,7 @@
     <tspan x="420" y="450" class="title">Achievements</tspan>
     <tspan x="420" y="470">——————————————————————————————————————————————————</tspan>
     <tspan x="420" y="490" class="key">Certification</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">AWS Certified Cloud Practitioner</tspan>
-    <tspan x="420" y="510" class="cc">. </tspan>
-    <tspan x="420" y="530" class="title">Fun Fact</tspan>
-    <tspan x="420" y="550">——————————————————————————————————————————————————</tspan>
-    <tspan x="420" y="570" class="key">Quote</tspan>:<tspan class="cc"> ............................ </tspan><tspan id="quoteText" class="quote">Code is poetry, debug is prose</tspan>
-  </text>
+</text>
 
   <!-- Dynamic Quote Script -->
   <script type="application/ecmascript"><![CDATA[
