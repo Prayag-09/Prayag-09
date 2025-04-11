@@ -1,7 +1,5 @@
 # 👋 Hey, I'm Tushar Prayag!
 
-I'm a **Full-Stack Developer** and **ECE student** at VIT Vellore, building AI-powered web apps and scalable systems. I love diving into **AI**, **cloud computing**, and open-source projects. Currently crafting intelligent solutions with Next.js, LangChain, and AWS! 🚀
-
 <a href="https://github.com/Prayag-09/Prayag-09">
   <picture>
     <img alt="Prayag's GitHub Profile README" src="./svgs/darkmode.svg">
