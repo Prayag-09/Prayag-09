@@ -1,35 +1,57 @@
-# Hello there, Prayag here 
+# 👋 Hey, I'm Tushar Prayag!
 
-<div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/prayagtushar/">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="https://twitter.com/prayagtushar">
-      <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white" alt="X Badge"/>
-    </a>
-    <a href="https://prayagtushar.hashnode.dev/">
-      <img src="https://img.shields.io/badge/Hashnode-3030ff?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode Badge"/>
-    </a>
-  </div>
-  
-  <img src="https://komarev.com/ghpvc/?username=Prayag-09&style=flat-square&color=blue" alt="Profile Views"/>
-</div>
+<a href="https://github.com/Prayag-09/Prayag-09">
+  <picture>
+    <img alt="Prayag's GitHub Profile README" src="./svgs/darkmode.svg">
+  </picture>
+</a>
 
-Hi there! I'm Prayag, a passionate web developer who thrives on exploring new technologies and contributing to open source projects. I've built projects using React, Node.js, and more! 
+## 🛠️ Tech Stack
 
-##  Contact
+### Languages
 
-Feel free to reach out: [prayagtushar2016@gmail.com](mailto:prayagtushar2016@gmail.com)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
 
-##  Skills
+### Frameworks & Libraries
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/>
-  </div>
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat)
+![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=flat)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat)
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?logo=langchain&logoColor=white&style=flat)
 
-⭐️ From [Prayag-09](https://github.com/Prayag-09)
+### Databases & ORMs
+
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
+![Pinecone](https://img.shields.io/badge/-Pinecone-00C4B4?logo=pinecone&logoColor=white&style=flat)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white&style=flat)
+![Drizzle ORM](https://img.shields.io/badge/-Drizzle_ORM-FFD700?logo=drizzle&logoColor=black&style=flat)
+
+### DevOps & Cloud
+
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white&style=flat)
+![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?logo=cloudflare&logoColor=white&style=flat)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
+
+### APIs & Authentication
+
+![Gemini API](https://img.shields.io/badge/-Gemini_API-4285F4?logo=google&logoColor=white&style=flat)
+![Stripe](https://img.shields.io/badge/-Stripe-008CDD?logo=stripe&logoColor=white&style=flat)
+![Clerk](https://img.shields.io/badge/-Clerk-6B5FFF?logo=clerk&logoColor=white&style=flat)
+![NextAuth](https://img.shields.io/badge/-NextAuth-000000?logo=auth0&logoColor=white&style=flat)
+
+### Caching
+
+![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white&style=flat)
+
+## 📈 What I'm Up To
+
+- 🔭 Working on **OpsVerseAI**, an intelligent PDF chat app with Stripe subscriptions.
+- 🌱 Learning **Redis** and advanced **AWS** services.
+- 💬 Open to collabs on AI or web dev projects—DM me on [Discord](https://discord.com/users/_prayag_)!
+
