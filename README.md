@@ -6,8 +6,6 @@
   </picture>
 </a>
 
-## "Good code is its own best documentation" — Steve McConnell
-
 ## 🛠️ Tech Stack
 
 ### Languages
