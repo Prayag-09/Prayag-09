@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Tushar Prayag!
+# 👋 Hey, I'm Prayag!
 
 <a href="https://github.com/Prayag-09/Prayag-09">
   <picture>
