@@ -59,8 +59,3 @@
 - 🌱 Learning **Redis**, advanced **AWS** services, and **LangChain** integrations.
 - 💬 Open to collabs on AI or web dev projects—DM me on [Discord](https://discord.com/users/_prayag_)!
 
-## 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=Prayag-09&show_icons=true&theme=radical&hide_border=true" alt="Prayag's GitHub Stats" width="400" />
-
-
