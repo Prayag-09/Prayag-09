@@ -20,29 +20,28 @@
   <text x="15" y="30" fill="#c9d1d9" class="ascii">
     <tspan x="15" y="30">           g@M%@%%@N%Nw,,                   </tspan>
     <tspan x="15" y="50">        ,M*|`||*%gNM=]mM%g||%N,             </tspan>
-    <tspan x="15" y="70">       p!``  '! |''` '''|||jhlj%w           </tspan>
-    <tspan x="15" y="90">     ,@L `    ^^  o ^ o ^^ |j%M]%M          </tspan>
-    <tspan x="15" y="110">    ]j'` .,wp@pw,    `.     ''''|%Wg        </tspan>
+    <tspan x="15" y="70">       p!``00'!0|''`0'''|||jhlj%w           </tspan>
+    <tspan x="15" y="90">     ,@L000000^^00o-^ o ^^ |j%M]%M          </tspan>
+    <tspan x="15" y="110">    ]j'` .,wp@pw,00000000000000|%Wg        </tspan>
     <tspan x="15" y="130">  /{||]@@@@@@@@@pp@@@@@@@@@|||||||||       </tspan>
     <tspan x="15" y="150"> '` ']@@@@@@@@@@@@@@p@@@@@@@@@@@@@@|       </tspan>
     <tspan x="15" y="170">  , :]%%@@@@@%%%%%%k%h@@@@@@@@@@@@@*       </tspan>
-    <tspan x="15" y="190">  '  j%M       |jkk'      n=|i    ;`        </tspan>
-    <tspan x="15" y="210">   !  j*^      |jkk'      `"  L'':!         </tspan>
-    <tspan x="15" y="230">    j  lp;,   ,/ @@     ,;\my "  ,~         </tspan>
-    <tspan x="15" y="250">   i r @@@@mmHM @@@@ `^****M*,p ;,          </tspan>
-    <tspan x="15" y="270">   | ]@@@@HHH]g@M%%%%%H,jmgpmb%  j          </tspan>
-    <tspan x="15" y="290">    ;;%%%%%k%@[,.n|;.;j%%k|%k%%',[          </tspan>
-    <tspan x="15" y="310">     H|%%k%%%j%k||,;;j;!!'|%ij}]@           </tspan>
-    <tspan x="15" y="330">     "djjmkL,"]][,,,,wwxw;|#kjk`            </tspan>
-    <tspan x="15" y="350">       %;%km%%%%M%M|%%jkkii|||[            </tspan>
+    <tspan x="15" y="190">  '00j%        |jkk'|       '00j%###        </tspan>
+    <tspan x="15" y="210">   000j        |jkk'|        @00####         </tspan>
+    <tspan x="15" y="230">   0j0l        |@@@||        00###1d         </tspan>
+    <tspan x="15" y="250">   i0r0@@@@mmHM @@@@ `^****M*1ocn10         </tspan>
+    <tspan x="15" y="270">   |0]@@@@HHH]g@M%%%%%H,jmgpmb%1od         </tspan>
+    <tspan x="15" y="290">    ;;%%%%%k%@[jtxdjyoj%%k|%k%%',[          </tspan>
+    <tspan x="15" y="310">      |H|%%k% %k||,;;j;!!'|%ij}]@           </tspan>
+    <tspan x="15" y="330">       |"djj|------------|w;|#kj            </tspan>
+    <tspan x="15" y="350">       %;%km|____________||ki||            </tspan>
     <tspan x="15" y="370">        kjj%%kkkl|!||||||j|||||            </tspan>
     <tspan x="15" y="390">         |jm%H@@@b%%kkmk%i|!,[             </tspan>
     <tspan x="15" y="410">         @p|j%%%%jkk|||j*'`;j[             </tspan>
-    <tspan x="15" y="430">        ]@@@g|'''`'''  ` ,;j%k             </tspan>
-    <tspan x="15" y="450">        @@@@@mgmp;,,,,:;jj%%k%             </tspan>
-    <tspan x="15" y="470">       @@@@@@@@%%kgki!|jjjj%k%@ .          </tspan>
-    <tspan x="15" y="490">. ^['' %@@@@HH%b%k{illljkjj%%%% ; `,.      </tspan>
-    <tspan x="15" y="510">=[' ` . %HH%%%%%H@gkilljjj%kk%".   `'i      </tspan>
+    <tspan x="15" y="430">        ]@@@g|@@@@000000000j%k             </tspan>
+    <tspan x="15" y="450">        @@@@@m@@@@0000000000000             </tspan>
+    <tspan x="15" y="470">       @@@@@@@@%%kgki!|jjjj%k%@0          </tspan>
+    <tspan x="15" y="490">     @@@@@@@@@@@@@@@@@@@@@@@@@@@@         </tspan>
   </text>
 
   <!-- Info Section -->
@@ -50,7 +49,7 @@
     <tspan x="420" y="30" class="title">prayag@tushar</tspan>
     <tspan x="420" y="50">——————————————————————————————————————————————————</tspan>
     <tspan x="420" y="70" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ............................ </tspan><tspan class="value">macOS Sequoia</tspan>
-    <tspan x="420" y="90" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">21 years, 9 months</tspan>
+    <tspan x="420" y="90" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">22 years</tspan>
     <tspan x="420" y="110" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ............................. </tspan><tspan class="value">VSCode</tspan>
     <tspan x="420" y="130" class="cc">. </tspan>
     <tspan x="420" y="150" class="key">Languages.Programming</tspan>:<tspan class="cc"> ...... </tspan><tspan class="value">Java, JavaScript, TypeScript</tspan>
@@ -59,7 +58,7 @@
     <tspan x="420" y="210" class="key">Tools</tspan>:<tspan class="cc"> ............................. </tspan><tspan class="value">Docker, Node.js, Git, Webpack</tspan>
     <tspan x="420" y="230" class="cc">. </tspan>
     <tspan x="420" y="250" class="key">Hobbies.Software</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value">Web Dev, OSS Contributions</tspan>
-    <tspan x="420" y="270" class="key">Hobbies.Learning</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">AI Exploration, Cloud</tspan>
+    <tspan x="420" y="270" class="key">Hobbies.Learning</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">NestJS, AI Exploration, Cloud</tspan>
     <tspan x="420" y="290" class="cc">. </tspan>
     <tspan x="420" y="310" class="title">Contact</tspan>
     <tspan x="420" y="330">——————————————————————————————————————————————————</tspan>
@@ -72,27 +71,4 @@
     <tspan x="420" y="470">——————————————————————————————————————————————————</tspan>
     <tspan x="420" y="490" class="key">Certification</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">AWS Certified Cloud Practitioner</tspan>
 </text>
-
-  <!-- Dynamic Quote Script -->
-  <script type="application/ecmascript"><![CDATA[
-    const quotes = [
-      "Programs must be written for people to read, and only incidentally for machines to execute. — Harold Abelson",
-      "Talk is cheap. Show me the code. — Linus Torvalds",
-      "Code is like humor. When you have to explain it, it’s bad. — Cory House",
-      "First, solve the problem. Then, write the code. — John Johnson",
-      "Simplicity is the soul of efficiency. — Austin Freeman",
-      "The best error message is the one that never shows up. — Thomas Fuchs",
-      "Good code is its own best documentation. — Steve McConnell",
-      "Any fool can write code that a computer can understand. Good programmers write code that humans can understand. — Martin Fowler",
-      "Experience is the name everyone gives to their mistakes. — Oscar Wilde",
-      "In order to be irreplaceable, one must always be different. — Coco Chanel"
-    ];
-    const quoteEl = document.getElementById("quoteText");
-    const setQuote = () => {
-      const random = quotes[Math.floor(Math.random() * quotes.length)];
-      quoteEl.textContent = random;
-    };
-    setQuote();
-    setInterval(setQuote, 5000);
-  ]]></script>
 </svg>
